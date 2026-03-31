@@ -1,0 +1,7 @@
+C:\Users\AHMOH\azure-secure-dotnet\app\publish\app.exe
+C:\Users\AHMOH\azure-secure-dotnet\app\publish\appsettings.Development.json
+C:\Users\AHMOH\azure-secure-dotnet\app\publish\appsettings.json
+C:\Users\AHMOH\azure-secure-dotnet\app\publish\app.dll
+C:\Users\AHMOH\azure-secure-dotnet\app\publish\app.deps.json
+C:\Users\AHMOH\azure-secure-dotnet\app\publish\app.runtimeconfig.json
+C:\Users\AHMOH\azure-secure-dotnet\app\publish\app.pdb
